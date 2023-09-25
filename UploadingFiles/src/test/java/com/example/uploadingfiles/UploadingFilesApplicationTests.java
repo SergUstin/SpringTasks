@@ -1,4 +1,4 @@
-package com.example.uploadingfiles;
+package java.com.example.uploadingfiles;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
